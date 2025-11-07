@@ -1,0 +1,6 @@
+## Acknowledgements
+
+This project uses and adapts code from the hand-gesture-controller project by @tubakhxn:
+https://github.com/tubakhxn/hand-gesture-controller
+
+Special thanks to them for providing the original implementation and inspiration.
